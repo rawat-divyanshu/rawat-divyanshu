@@ -1,7 +1,7 @@
 ### Hi there, I'm Divyanshu Rawat. 👋
 
 - 🔭 I’m currently a undergrad student at Birla Institute of Technology, Mesra.
-- 🌱 I’m currently following FULL STACK DEVLOPER path.
+- 🌱 I’m currently following FULL STACK DEVELOPER path.
 - ⚡ Fun fact: I love to play Guitar and Listen Music.
 
 ### Connect with me:
